@@ -1,0 +1,9 @@
+{
+  "name": "超级斜杠AI",
+  "description": "A sophisticated AI chat interface inspired by modern mobile messaging apps, featuring image analysis and document processing capabilities powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
